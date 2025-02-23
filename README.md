@@ -17,4 +17,14 @@ This repository presents a robust implementation of steganography techniques des
 ## Quick Install
 #### For a quick installation, follow these simple steps:
 ### 1. Clone this repository to your local environment.
-~~~https://github.com/DhanajiKadam/Stegnography_D.git~~~
+~~~
+https://github.com/DhanajiKadam/Stegnography_D.git
+~~~
+### 2. Run the following command for installing opencv Module.
+~~~
+pip install opencv-python
+~~~
+### 3. Run the following command for installing os Module.
+~~~
+pip install os-sys
+~~~
