@@ -26,8 +26,3 @@ for i in range(len(msg)):
 
 cv2.imwrite("EncryptedImage.jpg", img)
 os.system("start EncryptedImage.jpg")
-
-Message = ""
-m = 0
-l = 0
-n = 0
